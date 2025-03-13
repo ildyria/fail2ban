@@ -14,7 +14,7 @@ services:
       - 8080:8080
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - .:/plugins-local/src/github.com/tomMoulard/fail2ban/
+      - .:/plugins-local/src/github.com/ildyria/fail2ban/
     tty: true
 
   whoami:
