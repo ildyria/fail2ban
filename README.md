@@ -1,6 +1,6 @@
 # Fail2ban plugin for traefik
 
-[![Build Status](https://github.com/tomMoulard/fail2ban/actions/workflows/main.yml/badge.svg)](https://github.com/tomMoulard/fail2ban/actions/workflows/main.yml)
+### Temporary FORK of the original plugin to add proper support for response codes.
 
 This plugin is an implementation of a Fail2ban instance as a middleware
 plugin for Traefik.
